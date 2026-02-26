@@ -65,3 +65,39 @@ nav{
     background-size: cover;
     background-position: center;
 }
+
+/* action part*/
+
+.section-action{
+    display: flex;
+    align-items: center;    
+    justify-content: space-between; 
+    margin: 116px 150px 0 150px;
+    gap: 220px;
+}
+.action-img{
+    height: 328px;
+    width: 403px;
+    border-radius: 48px;
+}
+.action-title{
+    font-weight: bold;
+    font-size: 42px;
+
+}
+
+.action-discription{
+    color: #757575;
+    margin-top: 23px;
+    margin-bottom: 23px;
+    height: 60px;
+    width: 517px;
+}
+
+.section-action-left{
+    height: 328px;
+    text-align:left ;
+    flex-direction:column;
+    justify-content: center;
+    max-width: 517px;
+}
