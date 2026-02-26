@@ -101,3 +101,50 @@ nav{
     justify-content: center;
     max-width: 517px;
 }
+
+/* productive part */
+
+.productive-section{
+    margin-top: 116px;
+    margin-left: 141px;
+    margin-right: 159px;
+    padding: 50px 142px;
+    background-color: rgb(230, 230, 255);
+    border-radius: 15px;
+    
+}
+.productive-section h3{
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.productive{
+    color: #4E47FF;
+    height: 97px;
+    width: 162px;
+    font-size: 80px;
+    margin: 0;
+}
+
+.productive-data{
+  display: flex;
+  gap: 159px;
+  justify-content: center;
+}
+
+.productive-ber {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.productive-ber p {
+  margin-top: 0px;
+  font-size: 16px;
+  color: #757575;
+  font-weight: 500;
+}
+
+/* user part */
